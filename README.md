@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sathil-Shaharier
 - 👀 I'm student at North South University. 
 - 🌱 I’m currently learning ...
-- 💞️ I’m just using this as backup my projrct files
+- 💞️ I’m just using this as backup of my projrct files
 - 📫 How to reach me ..
 - Facebook : https://www.facebook.com/profile.php?id=100076811820819
 
